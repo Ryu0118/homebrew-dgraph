@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class dgraph < Formula
+class Dgraph < Formula
   desc "CLI tool to output mermaid dependencies between Swift Package Manager targets"
   homepage "https://github.com/Ryu0118/swift-dependencies-graph"
   url "https://github.com/Ryu0118/swift-dependencies-graph/releases/download/0.0.1/dgraph"
