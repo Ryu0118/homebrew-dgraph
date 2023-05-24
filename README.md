@@ -1,10 +1,10 @@
-# Ryu0118 Sorter
+# Ryu0118 swift-dependencies-graph
 
 ## How do I install these formulae?
 
-`brew install ryu0118/sorter/<formula>`
+`brew install ryu0118/dgraph/<formula>`
 
-Or `brew tap ryu0118/sorter` and then `brew install <formula>`.
+Or `brew tap ryu0118/dgraph` and then `brew install <formula>`.
 
 ## Documentation
 
