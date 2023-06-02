@@ -4,8 +4,8 @@
 class Dgraph < Formula
   desc "CLI tool to output mermaid dependencies between Swift Package Manager targets"
   homepage "https://github.com/Ryu0118/swift-dependencies-graph"
-  url "https://github.com/Ryu0118/swift-dependencies-graph/releases/download/0.0.1/dgraph"
-  sha256 "5fa96909143087b855fde6ed11e710be04a71e322f9dac37686d28f2e2eb2b0f"
+  url "https://github.com/Ryu0118/swift-dependencies-graph/releases/download/0.0.2/dgraph"
+  sha256 "3bb488edf809374ad528efb7285fa93634e3812bba12577021c9a5b3cd66ebc3"
   license "MIT"
 
   # depends_on "cmake" => :build
